@@ -41,6 +41,8 @@ wheels/
 *.egg-info/
 .installed.cfg
 *.egg
+*.jpg
+*.h5
 MANIFEST
 ipynb_checkpoints
 # PyInstaller
