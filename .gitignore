@@ -134,3 +134,14 @@ API
 Training
 Blog
 About
+
+*.1a3
+*.csv
+/build
+/data
+/model
+*.h5
+Untitled1.ipynb
+tempCodeRunnerFile.py
+*.ipch
+*.bin
